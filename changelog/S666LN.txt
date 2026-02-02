@@ -1,0 +1,15 @@
+Device: Itel RS4
+Code Name: S666LN
+Device Maintainer: putrazxyo13
+
+Date - 03/01/2026
+* Init OTA Support
+* Signed & User Build
+* Init QPR2
+* Drop unused codes
+* Drop unused overlay
+* Smoother Animations
+* Using latest vendor blobs
+* Dropped ViPER4FX
+* Added Dolby & JamesDSP
+* Set proper min_free_kbytes
