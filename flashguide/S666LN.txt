@@ -1,0 +1,20 @@
+Device: Itel RS4 (S666LN)
+Recommended Recovery: https://t.me/kampangkauya/371
+
+Flashing Instructions:
+
+* CLEAN FLASH:
+- Clear data, metdata, dalvik-cache, cache 
+- Flash ROM.zip
+- Flash Recovery
+- Format Data
+- Reboot System
+
+* DIRTY FLASH:
+- Flash ROM.zip
+- Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
+
+Happy Flashing!!!!
